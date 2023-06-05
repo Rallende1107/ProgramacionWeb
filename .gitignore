@@ -1,3 +1,3 @@
 *.pyc
 *.sqlite3
-/migrations/
+**/migrations/000*.py
